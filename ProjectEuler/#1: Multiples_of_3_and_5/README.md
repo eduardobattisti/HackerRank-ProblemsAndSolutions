@@ -11,19 +11,21 @@ First line contains  that denotes the number of test cases. This is followed by 
 • 1 <= T <= 10 ** 5 </br>
 • 1 <= T <= 10 ** 9
 
-Output Format
+</br>
+<h4>Output Format</h4>
 
 For each test case, print an integer that denotes the sum of all the multiples of 3 or 5 below N.
 
-Sample Input 0
+<h4>Sample Input 0</h4>
 2
 10
 100
 
-Sample Output 0
+<h4>Sample Output 0</h4>
 23
 2318
 
+</br>
 Explanation 0:
 For N=10, if we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3,5,6 and 9. The sum of these multiples is 23.
 
