@@ -8,7 +8,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 First line contains  that denotes the number of test cases. This is followed by  lines, each containing an integer, .
 
 <h4>Constraints</h4>
-• 1 <= T <= 10 ** 5
+• 1 <= T <= 10 ** 5 </br>
 • 1 <= T <= 10 ** 9
 
 Output Format
